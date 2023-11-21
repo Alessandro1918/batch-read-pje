@@ -6,11 +6,13 @@ Extração de dados em lotes do [PJe](https://pje.trt2.jus.br/primeirograu/login
 <div align="center">
   <img src="github_assets/pje1.png" alt="pje1" title="pje1" width="80%"/>
 </div>
+</br>
 <div align="center">
-  <img src="github_assets/pje1.png" alt="pje1" title="pje1" width="80%"/>
+  <img src="github_assets/pje2.png" alt="pje2" title="pje2" width="80%"/>
 </div>
+</br>
 <div align="center">
-  <img src="github_assets/pje1.png" alt="pje1" title="pje1" width="80%"/>
+  <img src="github_assets/pje3.png" alt="pje3" title="pje3" width="80%"/>
 </div>
 
 ## 🗂️ Utilização
